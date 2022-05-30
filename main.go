@@ -3,10 +3,10 @@ package main
 import (
 	"go-mysql/api/controller"
 	"go-mysql/api/repository"
+	"go-mysql/api/routes"
 	"go-mysql/api/service"
 	"go-mysql/infrastructure"
 	"go-mysql/models"
-	"go-mysql/routes"
 )
 
 func main() {
